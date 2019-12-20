@@ -1,0 +1,17 @@
+E:\Code\UDQL1\1660404_CK_3\DAO\bin\Debug\DAO.dll
+E:\Code\UDQL1\1660404_CK_3\DAO\bin\Debug\DAO.pdb
+E:\Code\UDQL1\1660404_CK_3\DAO\bin\Debug\DTO.dll
+E:\Code\UDQL1\1660404_CK_3\DAO\bin\Debug\DTO.pdb
+E:\Code\UDQL1\1660404_CK_3\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\Code\UDQL1\1660404_CK_3\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Code\UDQL1\1660404_CK_3\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\Code\UDQL1\1660404_CK_3\DAO\obj\Debug\DAO.dll
+E:\Code\UDQL1\1660404_CK_3\DAO\obj\Debug\DAO.pdb
+C:\Users\Phong\Desktop\DACK\1660404_CK_3\DAO\bin\Debug\DAO.dll
+C:\Users\Phong\Desktop\DACK\1660404_CK_3\DAO\bin\Debug\DAO.pdb
+C:\Users\Phong\Desktop\DACK\1660404_CK_3\DAO\bin\Debug\DTO.dll
+C:\Users\Phong\Desktop\DACK\1660404_CK_3\DAO\bin\Debug\DTO.pdb
+C:\Users\Phong\Desktop\DACK\1660404_CK_3\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Phong\Desktop\DACK\1660404_CK_3\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Phong\Desktop\DACK\1660404_CK_3\DAO\obj\Debug\DAO.dll
+C:\Users\Phong\Desktop\DACK\1660404_CK_3\DAO\obj\Debug\DAO.pdb
